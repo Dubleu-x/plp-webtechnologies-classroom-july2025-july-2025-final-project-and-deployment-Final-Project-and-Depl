@@ -6,7 +6,7 @@ WebCraft Studios is a responsive, multi-page website for a fictional web develop
 
 ## 🌐 Live Demo
 
-[View Live Website](https://your-username.github.io/webcraft-studios) *[Note: Replace with your actual deployment URL]*
+[View Live Website](https://shimmering-paletas-5431bc.netlify.app/) *[Note: Replace with your actual deployment URL]*
 
 ## 🚀 Features
 
